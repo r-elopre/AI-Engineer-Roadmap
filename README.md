@@ -1,21 +1,21 @@
 # AI Engineer Roadmap
 
 ## Phase 1 – AI Foundations
-✅ **Data Handling**
-- [x] Data cleaning (missing values, duplicates)
-- [x] Feature scaling & encoding
-- [x] Splitting datasets (train/test)
+ **Data Handling**
+- ✅ Data cleaning (missing values, duplicates)
+- ✅ Feature scaling & encoding
+- ✅ Splitting datasets (train/test)
 
-✅ **Machine Learning Basics**
-- [x] Linear Regression
-- [x] Logistic Regression
-- [x] Decision Trees
-- [x] K-Nearest Neighbors
-- [x] Model evaluation (accuracy, precision, recall, F1)
+ **Machine Learning Basics**
+- ✅ Linear Regression
+- ✅ Logistic Regression
+- ✅ Decision Trees
+- ✅ K-Nearest Neighbors
+- ✅ Model evaluation (accuracy, precision, recall, F1)
 
-✅ **Tools**
-- [x] Scikit-learn
-- [x] Jupyter Notebooks
+ **Tools**
+- ✅ Scikit-learn
+- ✅ Jupyter Notebooks
 
 
 🎯 **Projects**
